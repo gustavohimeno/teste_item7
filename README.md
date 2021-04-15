@@ -1,4 +1,4 @@
 # teste_item7
-- A consulta que responde ao problema do teste está no arquivo item7.sql
-- O arquivo example_table.sqlite.sql indica a estrutura das tabelas dogs e Cats que foram utilizadas para validação da consulta.
-- Os arquivos dogs.json e cats.json apresentam os dados que foram carregados nas tabelas Notes e Students. Esses dados de exemplo foram usados para validação da consulta
+- The SQL query that solves the test in written on item7.sql
+- The file example_table.sqlite.sql indicates the structure of dogs and cats table that were used to test the query.
+- The files dogs.json and cats.json were used as example data for the query test.
